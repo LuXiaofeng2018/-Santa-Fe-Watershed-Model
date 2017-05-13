@@ -5,3 +5,9 @@ Model of how water moves through the Santa Fe Watershed, which includes many arr
 
 CURRENT STABLE BUILD: New Mexico3.nlogo
 Platform dependent 
+
+
+Designed by:Noah Caulfield, Mohit Dubey,Samuel Thompson, and Milada Guenther for the New Mexico Supercomputing Challenge 
+#94, New Mexico School for the Arts 
+Mentored by Stephen Guerin and Sponsored by Acacia McCombs from NMSA's science department
+
